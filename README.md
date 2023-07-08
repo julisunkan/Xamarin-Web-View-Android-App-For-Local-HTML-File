@@ -56,3 +56,5 @@ Features:
 45.	Easy configuration
 46.	Well documented
 47.	Free support
+
+< a href="https://www.paypal.com/paypalme/julisunkan">Buy Me A Coffee </a>
